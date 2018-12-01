@@ -1,0 +1,33 @@
+#PENGERTIAN STEGANOGRAFI
+
+Steganografi adalah seni dan ilmu menulis pesan 
+tersembunyi atau menyembunyikan pesan dengan suatu 
+cara sehingga selain si pengirim dan si penerima, 
+tidak ada seorangpun yang mengetahui atau menyadari 
+bahwa ada suatu pesan rahasia. selengkapnya bisa 
+kalian searching di google, wikipedia, dll.
+
+#CARA PAKAI
+
+Kalian bisa memilih nomer yg tertera di tools saya. 
+"file ke txt" maksudnya adlh menyisipkan suatu file 
+berekstensi apapun kedalam file teks(.txt). file 
+teks dan file yg mau di sisipkan harus satu folder 
+yg sama taruh di penyimpanan internal dan nama 
+folder/file harus tidak ada spasi.
+begitupun juga dengan "file ke pdf" dll.
+
+# CARA PENGINSTALAN
+
+1) pkg install ruby
+2) gem install lolcat
+3) pkg install git
+4) pkg install zip
+5) git clone https://github.com/Syhrularv/imagesploit-v2
+6) cd imagesploit-v2
+7) chmod +x pirus.sh
+8) ./pirus.sh
+
+note: untuk nomer 1,2,3,4 jika kalian sudah install skip aja
+
+AND ENJOY
